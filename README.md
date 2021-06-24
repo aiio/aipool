@@ -14,8 +14,7 @@ import (
 	"fmt"
 	"time"
   
-  
-	"github.com/aiio/aipool"
+	"ruan.co/aipool"
 )
 
 func main()  {
