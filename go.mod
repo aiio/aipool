@@ -1,3 +1,3 @@
-module ruan.co/aipool
+module github.com/aiio/aipool
 
 go 1.16
